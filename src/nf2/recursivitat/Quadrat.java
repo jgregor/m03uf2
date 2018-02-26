@@ -15,8 +15,8 @@ public class Quadrat {
         System.out.println(nal2);
     }
     
-    public static double quadrat(double n) {
-        double calc = n * n;
+    public static double quadrat(double num) {
+        double calc = num * num;
         return calc;
     }
 }
